@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">Heapy — Build. Automate. Explore.</title>
+  <desc id="desc">Kotlin, developer tools, and everyday software. A stack of connected geometric blocks represents the Heapy ecosystem.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#9DAFA8" opacity=".16"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="340" rx="20" fill="#142922"/>
+  <rect width="1280" height="340" rx="20" fill="url(#grid)"/>
+  <path d="M0 320H1280" stroke="#B6E5B0" stroke-width="4"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="69" fill="#B6E5B0" font-size="15" font-weight="700" letter-spacing="4">INDEPENDENT SOFTWARE / SHARED IDEAS</text>
+    <text x="58" y="170" fill="#F4F1E7" font-size="104" font-weight="800" letter-spacing="-5">HEAPY</text>
+    <text x="64" y="231" fill="#F4F1E7" font-size="31">Build. Automate. Explore.</text>
+    <text x="65" y="273" fill="#AEC2B7" font-size="19">Kotlin · Developer tools · Everyday software</text>
+  </g>
+  <g stroke="#547164" stroke-width="2" fill="none">
+    <path d="M802 91H871V149H935M834 255H919V214H1075V107H1151"/>
+    <circle cx="802" cy="91" r="6" fill="#B6E5B0" stroke="none"/>
+    <circle cx="834" cy="255" r="6" fill="#EBAE83" stroke="none"/>
+    <circle cx="1151" cy="107" r="6" fill="#B6E5B0" stroke="none"/>
+  </g>
+  <g stroke="#142922" stroke-width="3" stroke-linejoin="round">
+    <path d="M891 232L1001 175L1111 232L1001 289Z" fill="#86AC95"/>
+    <path d="M891 232V260L1001 317V289Z" fill="#547E65"/>
+    <path d="M1001 289L1111 232V260L1001 317Z" fill="#6B987C"/>
+    <path d="M891 167L1001 110L1111 167L1001 224Z" fill="#EBAE83"/>
+    <path d="M891 167V195L1001 252V224Z" fill="#BC7956"/>
+    <path d="M1001 224L1111 167V195L1001 252Z" fill="#D5936C"/>
+    <path d="M891 102L1001 45L1111 102L1001 159Z" fill="#D9ECCA"/>
+    <path d="M891 102V130L1001 187V159Z" fill="#8CB48D"/>
+    <path d="M1001 159L1111 102V130L1001 187Z" fill="#B6D6AA"/>
+  </g>
+  <path d="M976 90L955 101L976 112M1026 90L1047 101L1026 112M1008 84L994 118" stroke="#325A44" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
