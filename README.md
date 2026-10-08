@@ -3,7 +3,8 @@
 The public landing page for [github.com/Heapy](https://github.com/Heapy).
 
 - [`profile/README.md`](profile/README.md) — the page GitHub displays on the organization's Overview tab.
-- [`profile/assets/heapy-banner.svg`](profile/assets/heapy-banner.svg) — the self-contained banner, with no external fonts or image services.
+- [`profile/assets/heapy-pencil-banner.png`](profile/assets/heapy-pencil-banner.png) — the graphite pencil illustration used as the banner, hosted in this repository.
+- [`profile/assets/banner-prompt.txt`](profile/assets/banner-prompt.txt) — the image generation prompt, for future revisions.
 - [`docs/projects.md`](docs/projects.md) — the complete public project directory, grouped by purpose.
 
 ## Updating the page

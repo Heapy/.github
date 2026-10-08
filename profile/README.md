@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Heapy/.github/main/profile/assets/heapy-banner.svg" alt="Heapy — Build. Automate. Explore. Kotlin, developer tools, and everyday software." width="100%">
+  <img src="https://raw.githubusercontent.com/Heapy/.github/main/profile/assets/heapy-pencil-banner.png" alt="HEAPY in pencil lettering beside a sketched laptop resting on notebooks, with a pencil on textured paper." width="100%">
 </p>
 
 <h1 align="center">Kotlin at the core. Curiosity everywhere.</h1>

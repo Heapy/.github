@@ -1,0 +1,8 @@
+Generated with the built-in image_gen tool on 2026-10-08.
+
+Use case: ads-marketing.
+Asset type: wide GitHub organization profile banner for HEAPY, an independent collection of Kotlin libraries, developer tools and everyday software.
+Create a quiet, tasteful graphite-pencil editorial illustration on warm off-white drawing paper, landscape approximately 3:1. It should feel like a carefully observed sketchbook drawing, with economical marks and generous blank space.
+Composition: on the left, the word "HEAPY" in large hand-drawn uppercase lettering, slightly irregular, dark graphite, confidently readable. On the right, one compact still life: a small open laptop resting on two slightly offset closed notebooks, and a real wooden pencil lying diagonally beside them. The laptop screen has only a simple small terminal prompt >_ drawn in pencil. Ground the objects with sparse contact shadows. Keep everything well inside the edges, leave ample breathing room above and below.
+Medium: entirely graphite, varied pencil pressure, slightly wandering contours, selective cross-hatching, visible paper tooth, a few faint construction lines and restrained smudges. White space should dominate; details concentrated at a few edges, some outlines left unfinished. Natural modest perspective, physically coherent objects. No glossy digital shading, no gradients, no 3D render, no perfect vector curves, no excessive detail, no decorative floating icons, no robots, no neon, no sepia antique effect, no fake artist signature, no watermark.
+Text verbatim: "HEAPY". No other words or taglines. Make the lettering and still life part of the same pencil drawing. Produce the finished banner itself, not a photograph of paper on a table.
