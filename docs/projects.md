@@ -53,7 +53,7 @@ Independent integrations for JetBrains Kotlin Toolchain, plus supporting tools f
 | [ktc-ktfmt](https://github.com/Heapy/ktc-ktfmt) | Check formatting with ktfmt and explicitly format sources. |
 | [ktc-bcv](https://github.com/Heapy/ktc-bcv) | Review public JVM API changes against committed API snapshots. |
 | [ktc-kover](https://github.com/Heapy/ktc-kover) | Generate JVM coverage reports and enforce coverage thresholds. |
-| [ktc-dokka](https://github.com/Heapy/ktc-dokka) | Generate JVM API documentation with Dokka. |
+| [ktc-dokka](https://github.com/Heapy/ktc-dokka) | Generate JVM, Android and Kotlin Multiplatform API documentation and Javadoc archives with Dokka 2.3.0. |
 | [ktc-jib](https://github.com/Heapy/ktc-jib) | Build JVM container images and publish them without a Docker daemon. |
 | [ktc-sqldelight](https://github.com/Heapy/ktc-sqldelight) | Generate SQLDelight database code and import matching runtime dependency aliases. |
 | [ktc-quarkus](https://github.com/Heapy/ktc-quarkus) | Develop and package Quarkus applications, including JVM, native, and container outputs. |
